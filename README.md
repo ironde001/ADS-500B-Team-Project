@@ -3,6 +3,10 @@
 Apply foundational analytic models to provided dataset. 
 Deliverables: recorded video presentation, final .pdf document.
 
+## Decisions
+ 1. Dataset 2: contains data related to house sales for a couty in Washington state
+ 2. Language: Python
+
 ##Sections
 ### 1. Data Importing and Pre-processing
 Import dataset and describe characteristics such as dimensions, data types, file types, and import methods used
