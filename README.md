@@ -4,7 +4,7 @@ Apply foundational analytic models to provided dataset.
 Deliverables: recorded video presentation, final .pdf document.
 
 ## Decisions
- 1. Dataset 2: contains data related to house sales for a couty in Washington state
+ 1. Dataset 2: contains data related to house sales for a county in Washington state, between May 2014 - May 2015
  2. Language: Python
 
 ## Sections
